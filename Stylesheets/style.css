@@ -55,7 +55,9 @@ body {
   padding: 0;
   background:#750000;
 }
- 
+p {
+  color:black;
+}
 .nav ul {
   list-style: none;
   background-color:#003602;
