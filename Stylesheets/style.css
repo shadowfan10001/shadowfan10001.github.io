@@ -53,12 +53,12 @@ Color 1:
 body {
   margin: 0;
   padding: 0;
-  background: #ccc;
+  background:#750000;
 }
  
 .nav ul {
   list-style: none;
-  background-color: #444;
+  background-color:purple;
   text-align: center;
   padding: 0;
   margin: 0;
